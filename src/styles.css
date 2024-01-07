@@ -230,3 +230,10 @@ h1 {
     transform: translateY(0%);
   }
 }
+
+.restart-button {
+  padding: 8px 16px;
+  margin: 16px auto; 
+  background-color: aquamarine;
+  border-radius: 4px;
+}
